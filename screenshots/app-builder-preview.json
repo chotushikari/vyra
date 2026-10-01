@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Chat2Cash",
+      "hasCanvas": false,
+      "bodyTextLen": 947,
+      "bodyTextHash": "8ac1b8fed4d6596c5bc15082db49d748cd0e349d826659a0e0944c7795735699",
+      "bodyTextPrefix": "Chat2Cash Mehta Textiles Desk Inbox 7 Orders Invoices Payments F",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Chat2Cash",
+      "hasCanvas": false,
+      "bodyTextLen": 934,
+      "bodyTextHash": "adce346648f18391d6adb7a32a0db9806cf7c5a1fca7d970c17008279e9bd6f6",
+      "bodyTextPrefix": "Chat2Cash Mehta Textiles SURAT DESK Cash from chat WhatsApp stay",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
